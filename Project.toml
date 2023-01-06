@@ -1,0 +1,13 @@
+name = "BasicBSplineFitting"
+uuid = "0b67037f-a240-4a3f-af2e-8325c7d59380"
+authors = ["hyrodium <hyrodium@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
