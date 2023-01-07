@@ -1,7 +1,7 @@
 name = "BasicBSplineFitting"
 uuid = "0b67037f-a240-4a3f-af2e-8325c7d59380"
 authors = ["hyrodium <hyrodium@gmail.com> and contributors"]
-version = "0.0.1"
+version = "0.1.0"
 
 [deps]
 BasicBSpline = "4c5d9882-2acf-4ea4-9e48-968fd4518195"
