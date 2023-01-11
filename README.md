@@ -4,6 +4,7 @@
 [![Coverage](https://codecov.io/gh/hyrodium/BasicBSplineFitting.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/hyrodium/BasicBSplineFitting.jl)
 
 This package provides `fittingcontrolpoints` and related functions.
+These functions have been moved from [BasicBSpline.jl v0.9.0](https://github.com/hyrodium/BasicBSpline.jl/releases/tag/v0.9.0).
 
 ## Fitting B-spline manifold
 [Try on Desmos graphing calculator!](https://www.desmos.com/calculator/2hm3b1fbdf)
