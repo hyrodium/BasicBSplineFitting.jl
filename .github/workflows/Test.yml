@@ -17,6 +17,7 @@ jobs:
         version:
           - '1.6'
           - '1'
+          - 'lts'
           - 'nightly'
         os:
           - ubuntu-latest
